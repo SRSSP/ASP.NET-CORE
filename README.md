@@ -4,6 +4,7 @@ For information on how to use this repository, see [.NET Core](https://docs.micr
 
 | Example | Build status |
 |---------|--------------|
+[![Build Status](https://dev.azure.com/PraveenBadiger/ASP.Net.Core/_apis/build/status/SRSSP.ASP.NET-CORE?branchName=master)](https://dev.azure.com/PraveenBadiger/ASP.Net.Core/_build/latest?definitionId=1?branchName=master)
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=2) |
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=3) |
